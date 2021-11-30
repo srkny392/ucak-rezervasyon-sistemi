@@ -1,0 +1,19 @@
+C:\Users\Lenovo\source\repos\Arac Kullanimlari\Arac Kullanimlari\bin\Debug\netcoreapp3.1\Arac Kullanimlari.exe
+C:\Users\Lenovo\source\repos\Arac Kullanimlari\Arac Kullanimlari\bin\Debug\netcoreapp3.1\Arac Kullanimlari.deps.json
+C:\Users\Lenovo\source\repos\Arac Kullanimlari\Arac Kullanimlari\bin\Debug\netcoreapp3.1\Arac Kullanimlari.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Arac Kullanimlari\Arac Kullanimlari\bin\Debug\netcoreapp3.1\Arac Kullanimlari.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Arac Kullanimlari\Arac Kullanimlari\bin\Debug\netcoreapp3.1\Arac Kullanimlari.dll
+C:\Users\Lenovo\source\repos\Arac Kullanimlari\Arac Kullanimlari\bin\Debug\netcoreapp3.1\Arac Kullanimlari.pdb
+C:\Users\Lenovo\source\repos\Arac Kullanimlari\Arac Kullanimlari\obj\Debug\netcoreapp3.1\Arac Kullanimlari.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Arac Kullanimlari\Arac Kullanimlari\obj\Debug\netcoreapp3.1\Arac_Kullanimlari.Form1.resources
+C:\Users\Lenovo\source\repos\Arac Kullanimlari\Arac Kullanimlari\obj\Debug\netcoreapp3.1\Arac Kullanimlari.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Arac Kullanimlari\Arac Kullanimlari\obj\Debug\netcoreapp3.1\Arac Kullanimlari.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Arac Kullanimlari\Arac Kullanimlari\obj\Debug\netcoreapp3.1\Arac Kullanimlari.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Arac Kullanimlari\Arac Kullanimlari\obj\Debug\netcoreapp3.1\Arac Kullanimlari.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Arac Kullanimlari\Arac Kullanimlari\obj\Debug\netcoreapp3.1\Arac Kullanimlari.dll
+C:\Users\Lenovo\source\repos\Arac Kullanimlari\Arac Kullanimlari\obj\Debug\netcoreapp3.1\Arac Kullanimlari.pdb
+C:\Users\Lenovo\source\repos\Arac Kullanimlari\Arac Kullanimlari\obj\Debug\netcoreapp3.1\Arac Kullanimlari.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Arac Kullanimlari\Arac Kullanimlari\obj\Debug\netcoreapp3.1\Arac_Kullanimlari.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Arac Kullanimlari\Arac Kullanimlari\obj\Debug\netcoreapp3.1\Arac_Kullanimlari.Form2.resources
+C:\Users\Lenovo\source\repos\Arac Kullanimlari\Arac Kullanimlari\obj\Debug\netcoreapp3.1\Arac_Kullanimlari.Form3.resources
+C:\Users\Lenovo\source\repos\Arac Kullanimlari\Arac Kullanimlari\obj\Debug\netcoreapp3.1\Arac_Kullanimlari.Form4.resources
